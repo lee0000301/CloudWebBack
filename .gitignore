@@ -1,0 +1,25 @@
+# Java Spring Boot
+back/target/
+build/
+.mvn/
+*.iml
+.project
+.classpath
+.settings/
+
+# Node.js
+back/node_modules/
+back/dist/
+back/build/
+back/.env
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# MySQL Workbench
+mysqlWorkBench/
